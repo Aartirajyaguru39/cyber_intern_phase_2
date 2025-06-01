@@ -1,0 +1,2 @@
+Malicious PowerShell Execution 
+Look for encoded PowerShell commands or commands spawning from Office apps like winword.exe → 

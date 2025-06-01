@@ -1,0 +1,2 @@
+Suspicious ZIP or RAR File Downloads 
+Check how users download suspicious .zip, .rar, or .7z files from external IPs. Look for uncommon User-Agent

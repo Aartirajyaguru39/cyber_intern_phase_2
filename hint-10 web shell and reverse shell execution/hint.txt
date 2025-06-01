@@ -1,0 +1,2 @@
+ Web Shell or Reverse Shell Execution 
+Simulate a reverse shell using Netcat or PowerShell.

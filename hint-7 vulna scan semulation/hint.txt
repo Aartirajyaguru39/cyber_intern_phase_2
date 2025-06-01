@@ -1,0 +1,2 @@
+ Vulnerability Scan Simulation 
+Use Nmap or Nessus Essentials to scan a host. 

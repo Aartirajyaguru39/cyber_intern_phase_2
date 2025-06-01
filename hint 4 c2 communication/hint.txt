@@ -1,0 +1,2 @@
+ External Beaconing or C2 Communication 
+Simulate outbound HTTP or HTTPS traffic at a scheduled interval to a custom domain. How can you detect

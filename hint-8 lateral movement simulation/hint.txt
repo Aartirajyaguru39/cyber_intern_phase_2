@@ -1,0 +1,2 @@
+8: Lateral Movement Simulation 
+Try accessing a shared folder on another VM and copy an executable. 
